@@ -1,6 +1,6 @@
 
 
---ASSIGNMENT 4------------------------------------------------------------------------------
+--ASSIGNMENT 5------------------------------------------------------------------------------
 
 --5.1 - Write a query using a scalar subquery that returns all products with a list_price above the average price in their brand. Use a correlated subquery in WHERE
 
